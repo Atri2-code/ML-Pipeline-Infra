@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: inference-config
+  namespace: ml-pipeline
+data:
+  LOG_LEVEL: "INFO"
+  PORT: "8080"
+  MODEL_KEY: "models/latest/model.pkl"
+  WORKERS: "4"
+  TIMEOUT: "30"
