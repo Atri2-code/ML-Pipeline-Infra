@@ -1,4 +1,4 @@
-# Ml-pipeline-infra
+# ML-Pipeline-Infra
 
 ![CI](https://github.com/Atri2-code/ml-pipeline-infra/actions/workflows/ci.yml/badge.svg)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC)
